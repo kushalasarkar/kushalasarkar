@@ -17,10 +17,6 @@
 
 💻 All of my projects are available at **[My Portfolio]()**
 
-💬 Ask me about **Frontend Development**
-
-💗 Love to talk about **Research and Innovation!**
-
 <br/>
 
 📫 How to reach me **kushal11asarkar@gmail.com**
