@@ -27,6 +27,7 @@
 
 - Winner of Smart India Hackathon 2019 **[Post](https://www.linkedin.com/feed/update/urn:li:activity:6556498731561246720/)**
 
+
 📫 How to reach me **kushal11asarkar@gmail.com**
 
 📄 Know about my experiences at my **[LinkedIn Profile](https://www.linkedin.com/in/kushal-asarkar-59b85115a/)**
