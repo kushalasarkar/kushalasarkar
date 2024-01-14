@@ -21,12 +21,7 @@
 
 💗 Love to talk about **Research and Innovation!**
 
-## 💪 Passionate about Web Development
-
-## 🏆 Achievement
-
-- Winner of Smart India Hackathon 2019 **[Post](https://www.linkedin.com/feed/update/urn:li:activity:6556498731561246720/)**
-
+<br/>
 
 📫 How to reach me **kushal11asarkar@gmail.com**
 
@@ -58,7 +53,8 @@
 [![visualstudio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
-
+<!---
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
 
 <div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=kushalasarkar&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" /></div>
+--->
