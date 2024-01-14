@@ -17,8 +17,6 @@
 
 💻 All of my projects are available at **[My Portfolio]()**
 
-<br/>
-
 📫 How to reach me **kushal11asarkar@gmail.com**
 
 📄 Know about my experiences at my **[LinkedIn Profile](https://www.linkedin.com/in/kushal-asarkar-59b85115a/)**
